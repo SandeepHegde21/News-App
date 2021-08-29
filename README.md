@@ -14,3 +14,20 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Packages used in the project
+To add packages into  your project,go to pubspec.yaml file and  add the package in the dependency sections and run "flutter pub get"  
+### 1.webview_flutter:
+      A flutter plugin that provides a WebView widget on Android and iOS
+      Now in your Dart code, you can use:
+      import 'package:webview_flutter/webview_flutter.dart';
+### 2.cached_network_image:
+      A flutter library to show images from the internet and keep them in the cache directory.
+      Now in your Dart code, you can use:
+      import 'package:cached_network_image/cached_network_image.dart';
+ 
+ 
+## API USED:
+  ### NEWS API:
+    News API is a simple, easy-to-use REST API that returns JSON search results for current and historic news articles published by over 80,000 worldwide sources. 
+    API from https://newsapi.org/ .
