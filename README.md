@@ -31,3 +31,6 @@ To add packages into  your project,go to pubspec.yaml file and  add the package 
   ### NEWS API:
     News API is a simple, easy-to-use REST API that returns JSON search results for current and historic news articles published by over 80,000 worldwide sources. 
     API from https://newsapi.org/ .
+    
+## To run the project 
+          Use the command ,"flutter run"
