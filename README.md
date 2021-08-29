@@ -27,7 +27,7 @@ To add packages into  your project,go to pubspec.yaml file and  add the package 
       import 'package:cached_network_image/cached_network_image.dart';
  
  
-## API USED:
+## API used:
   ### NEWS API:
     News API is a simple, easy-to-use REST API that returns JSON search results for current and historic news articles published by over 80,000 worldwide sources. 
     API from https://newsapi.org/ .
